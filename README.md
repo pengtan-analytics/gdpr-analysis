@@ -23,9 +23,9 @@ The analysis highlights the importance of:
 
 It also reflects the impact of the "one-stop-shop" mechanism on enforcement distribution.
 
-## 🛠 Tools
+## Tools
 - Python (pandas, matplotlib)
 - Jupyter Notebook
 
-## 📂 Dataset
+## Dataset
 Data sourced from Kaggle GDPR fines dataset (2018–2022)
