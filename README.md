@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project analyzes GDPR enforcement data to identify compliance risks across different countries and types of violations.
+It aims to provide a data-driven perspective on how regulatory enforcement reflects underlying legal and organizational risk structures.
 
 ## Key Findings
 - GDPR fines are highly concentrated in a small number of countries, especially Ireland and Luxembourg.
